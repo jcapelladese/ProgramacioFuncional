@@ -35,7 +35,7 @@ public class DataStructure {
     		System.out.print(iterator.next() + " ");
     	}
     	System.out.println();
-    }
+    }    
     
     /*
      * Exercici 2.3: 3. Defineix un mètode nomenat 
